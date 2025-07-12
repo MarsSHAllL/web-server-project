@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Тестовая форма</title>
+    </head>
+    <body>
+        <h1>Форма ввода данных</h1>
+        <form action="/submit" method="post">
+            <label for="name">Имя:</label>
+            <input type="text" id="name" name="name">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+
+            <input type="submit" value="Отправить">
+        </form>
+        <div id="output" style="margin-top: 20px; border: 1px solid #ccc; padding: 10px;">
+            <h3>Результат:</h3>
+            <p id="result-text"></p>
+        </div>
+    </body>
+</html>
