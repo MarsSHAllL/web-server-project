@@ -22,9 +22,9 @@
 
 Создайте и активируйте виртуальное окружение (опционально):
 
-`python -m venv .venv<br>`
-`.\.venv\Scripts\activate  # Windows<br>`
-`source .venv/bin/activate # Linux/macOS<br>`
+`python -m venv .venv`<br>
+`.\.venv\Scripts\activate  # Windows`<br>
+`source .venv/bin/activate # Linux/macOS`<br>
 
 Установите зависимости:<br>
 `pip install selenium webdriver-manager`
