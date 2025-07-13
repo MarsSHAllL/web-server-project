@@ -33,7 +33,7 @@ pip install selenium webdriver-manager
 ### 2. Запуск сервера
 python server.py
 
-🧪 <h2>Тестирование</h2><br>
+<h2>🧪 Тестирование</h2><br>
 Юнит-тест сервера
 bash
 python test_server.py
