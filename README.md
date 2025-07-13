@@ -36,7 +36,7 @@ python server.py
 Юнит-тест сервера
 python test_server.py<br>
 UI-тест через Selenium<br>
-⚠️ Перед запуском убедитесь, что сервер (server.py) уже запущен!<br> ⚠️
+⚠️ Перед запуском убедитесь, что сервер (server.py) уже запущен! ⚠️<br>
 <br>
 python test_selenium.py<br>
 ⚠️ Убедитесь, что установлен браузер Chrome и соответствующий драйвер (используется webdriver-manager). ⚠️
